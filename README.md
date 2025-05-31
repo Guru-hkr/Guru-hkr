@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Guru-hkr
-- 👀 I’m interested in Programming.
-- 🌱 I’m currently learning Python.
+- 👋 Hi, I’m Guru
+- 👀 I’m interested in Ethical Hacking.
+- 🌱 I’m currently working as Software Eng.
 - 💞️ I’m looking to collaborate on Cyber Security.
 - For  Supporting me and Contacting me Please mail me:----- newstartup001@proton.me ------- on this mail. i am very Thankfull to U......
 
